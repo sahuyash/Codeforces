@@ -1,2 +1,2 @@
 # Codeforces
-Solutions for some CF problems
+Solutions for some CF problems in cpp
